@@ -44,7 +44,7 @@ function AcademicResume() {
 					<div className="row">
 						<div className="col-md-12 text-center">
 							<div className="header-text">
-								<h2>Reza Shabrang <br /> Academic Resume Test</h2>
+								<h2>Reza Shabrang <br /> Resume</h2>
 							</div>
 						</div>
 					</div>
