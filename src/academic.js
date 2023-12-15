@@ -530,7 +530,7 @@ function AcademicResume() {
         <br></br>
         <div className="container">
           <div>
-            <p className='tech-skills-extra'>If you are interested in my coding skills and industry experience you can view my techinal resume <a href='https://rezashabrang.github.io' target='_blank'>here</a></p>
+            <p className='tech-skills-extra'>If you are interested in my coding skills and industry experience you can view my technical resume <a href='https://rezashabrang.github.io' target='_blank'>here</a></p>
           </div>
           <br />
           <br />
