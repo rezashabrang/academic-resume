@@ -67,7 +67,7 @@ function AcademicResume() {
                     <b>
                       I have graduated from Amirkabir university of technology with a QS ranking of 403 on year 2021. My bachelor thesis is a machine learning project about predicting construction project costs which I have passed with a grade of 4/4.<br /><br />
                       Also, I am currently working as a Machine Learning Engineer in the medical data and NLP fields.<br />
-                      I am very enthusiastic about research & learning, and I always try to be up to date with state of the art machine learning models and problems like Meta-learning, LLMs, GANs, Vision Transformers (ViTs), LVMs (Large Vision Models), Diffusions and etc. <br /><br/>
+                      I am very enthusiastic about research & learning, and I always try to be up to date with state of the art machine learning models and problems like Meta-learning, LLMs, GANs, Vision Transformers (ViTs), LVMs (Large Vision Models), Diffusions and etc. <br /><br />
                       Currently, I am looking for a graduate position in Computer Science or Industrial & System Engineering major to continue research in machine learning field.</b>
                   </p>
                   <div className="row">
@@ -509,11 +509,35 @@ function AcademicResume() {
         <div className="container">
           <div className="education-horizontal-timeline">
             <div className="row">
-              <div className="col-sm-4">
+              <div className="col-sm-3">
                 <div className="single-horizontal-timeline">
                   <div className="experience-time">
-                    <h2>2021-Present</h2>
-                    <h3>Teaching Python for Data Science</h3>
+                    <h2>2024</h2>
+                    <h3>Practical ML Course</h3>
+                  </div>
+                  <div className="timeline-horizontal-border">
+                    <i className="fa fa-circle" aria-hidden="true"></i>
+                    <span className="single-timeline-horizontal spacial-horizontal-line
+									"></span>
+                  </div>
+                  <div className="timeline">
+                    <div className="timeline-content">
+                      <h4 className="title">
+                        Aasaam
+                      </h4>
+                      <h5>Tehran, Iran</h5>
+                      <p className="description">
+                        Teaching Classical ML & Deep Learning with Practical Deployment
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-sm-3">
+                <div className="single-horizontal-timeline">
+                  <div className="experience-time">
+                    <h2>2023</h2>
+                    <h3>Python for Data Science</h3>
                   </div>
                   <div className="timeline-horizontal-border">
                     <i className="fa fa-circle" aria-hidden="true"></i>
@@ -533,7 +557,7 @@ function AcademicResume() {
                   </div>
                 </div>
               </div>
-              <div className="col-sm-4">
+              <div className="col-sm-3">
                 <div className="single-horizontal-timeline">
                   <div className="experience-time">
                     <h2>2019 - 2020</h2>
@@ -556,7 +580,7 @@ function AcademicResume() {
                   </div>
                 </div>
               </div>
-              <div className="col-sm-4">
+              <div className="col-sm-3">
                 <div className="single-horizontal-timeline">
                   <div className="experience-time">
                     <h2>2018 - 2019</h2>
